@@ -9,6 +9,8 @@ body {
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+  font-family: 'Potta One', cursive;
+  
 }
 
 .container {
